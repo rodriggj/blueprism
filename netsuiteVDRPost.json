@@ -1,0 +1,15 @@
+{
+    "invoice": {
+        "subsidiaryName": "Honeycomb Mfg.",
+        "locationName": "02: Boston",
+        "exchangeRateId": "1.0",
+        "locationId": "1",
+        "entityName": "Acera",
+        "dueDate": "1431241200000",
+        "subsidiaryId": "1",
+        "entityId": "1251",
+        "transactionDate": "1428649200000",
+        "status": "Open"
+    },
+    "id": "29"
+}

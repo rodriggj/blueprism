@@ -1,0 +1,26 @@
+{
+    "invoice": {
+        "token": "0",
+        "formId": "72",
+        "formName": "QBO",
+        "dueDate": "2020-02-12T00:00:00Z",
+        "totalTax": 0,
+        "entityId": "2308",
+        "entityName": "Seeburger Test",
+        "txnDate": "2020-02-12T00:00:00Z"
+    },
+    "invoice_items": [
+        {
+            "display": "SALES_ITEM_LINE_DETAIL",
+            "amount": 10,
+            "item_name": "Services",
+            "item_id": "342",
+            "accountName": "Services",
+            "accountId": "84",
+            "taxRateId": "NON",
+            "lineNo": 1,
+            "desc": "Opening Balance",
+            "lineId": 1
+        }
+    ]
+}

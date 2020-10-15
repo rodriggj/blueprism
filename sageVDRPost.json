@@ -1,0 +1,19 @@
+{
+    "id": "c2a5b1070b5b11e8a8f11281a7acf536",
+    "invoice": {
+        "transactionDate": "2020-02-01",
+        "dueDate": "2020-06-01",
+        "exch_rate_id": 1
+    },
+    "invoice_items": [
+        {
+            "lineNo": "Line 1",
+            "display": "Sales of Materials (4050)",
+            "path": "/ledger_accounts/dadfc18b4d1611e695ab0ed51759bcc7",
+            "accountId": "dadfc18b4d1611e695ab0ed51759bcc7",
+            "quantity": 1,
+            "amount": 55,
+            "taxRateId": "da8391e24d1611e695ab0ed51759bcc7"
+        }
+    ]
+}
