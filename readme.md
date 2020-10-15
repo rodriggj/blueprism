@@ -8,4 +8,4 @@
 
 
 ## Installation Process
-1. Go to this location &nbsp<sub>https://digitalexchange.blueprism.com</sub>
+1. Go to this location <sub>https://digitalexchange.blueprism.com</sub>
